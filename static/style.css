@@ -1,0 +1,117 @@
+body {
+  background-color: #cfc0e7;
+  font-family: Arial, sans-serif;
+  gap: 10px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 6px 12px;
+  border-radius: 4px;
+  color: #fff;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+.btn-done {
+  background-color: orange;
+}
+.btn-done:hover {
+  background-color: darkorange;
+}
+
+.btn-edit {
+  background-color: blue;
+}
+.btn-edit:hover {
+  background-color: darkblue;
+}
+
+.btn-delete {
+  background-color: red;
+}
+.btn-delete:hover {
+  background-color: darkred;
+}
+
+.content {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.content h1 {
+  text-align: center;
+  color: #333;
+}
+.content h4 {
+  text-align: center;
+  color: #333;
+}
+.content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+.content table th, .content table td {
+  padding: 12px;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+}
+.content table th {
+  background-color: #f4f4f4;
+}
+.content table input {
+  width: 80%;
+  padding: 8px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+#btn_add {
+  text-align: center;
+  padding: 10px 18px;
+  margin-top: 10px;
+  background-color: #28a745;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+#btn_add:hover {
+  background-color: rgb(30.1449275362, 125.8550724638, 52);
+}
+#btn_add #content_box {
+  width: 80%;
+  padding: 8px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+#btn_add .update_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+#btn_add .update_container #btn_update {
+  padding: 10px 18px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+#btn_add .update_container #btn_update:hover {
+  background-color: rgb(0, 98.4, 204);
+}
+#btn_add .update_container #content {
+  width: 80%;
+  padding: 8px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}/*# sourceMappingURL=style.css.map */
