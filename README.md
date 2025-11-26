@@ -118,6 +118,9 @@ Workflow file: `.github/workflows/deploy.yml`
 ## 📸 **Screenshots**
 
 
+<img width="1000" height="500" alt="Screenshot (646)" src="https://github.com/user-attachments/assets/64762d3b-9d17-4076-8231-512ba27a00bf" />
+
+<img width="1600" height="858" alt="Screenshot (645)" src="https://github.com/user-attachments/assets/db2fe169-9915-4de7-9a41-b98f432685d6" />
 
 ---
 
