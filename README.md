@@ -139,8 +139,7 @@ Workflow file: `.github/workflows/deploy.yml`
 
 **Saad Patel**
 DevOps & Cloud Enthusiast | Python & Backend Learner
-(Insert your social links)
-
+https://www.linkedin.com/in/saad-patel-469016314/
 ---
 
 
